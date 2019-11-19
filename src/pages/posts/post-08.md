@@ -10,7 +10,7 @@ content_img:
   url: '#'
 alt_img: images/pic01.jpg
 sidebar:
-  enabled: false
+  enabled: true
   side: left
 date: '2017-04-08'
 show_in_home_posts: true
